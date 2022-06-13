@@ -1,40 +1,22 @@
-### Hi there 👋
-
-<!--
-**cyhank/cyhank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img src="https://count.getloli.com/get/@:Hank" alt=":hank" />
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-stack+web+and+app+developer.++++++++++)](https://git.io/typing-svg)
 
 <p align="center">
-  <img width="92" src="https://github.com/cyhank/cyhank/blob/main/file/DM_20220611232127_001.png?raw=true" />
+  <img width="92" src="https://raw.githubusercontent.com/cyhank/cyhank/main/file/DM_20220611232127_001.png" />
 </p>  
-<h2 align="center">Hi there 👋, I'm Hank!</h2>
+<h2 align="center">Hi there 👋, I'm cyhank!</h2>
 
-
-<a href="https://blog.codewithshin.com/" target="blank">Blog: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="30" width="40" /></a> <a href="https://twitter.com/hank" target="blank">Twitter: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Medium" height="30" width="40" /></a>
+<!--
+<a href="" target="blank">Blog: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="30" width="40" /></a> <a href="" target="blank">Twitter: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Medium" height="30" width="40" /></a>
 
 <h2>🏆 Github Profile Trophy</h2>
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=hank&column=9&theme=gruvbox&no-frame=true"/>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=cyhank&column=9&theme=gruvbox&no-frame=true"/>
+-->
+![cyhank's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyhank&show_icons=true&theme=tokyonight)
 
-![Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hank&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyhank&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hank&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hank&theme=neon-palenight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cyhank&theme=neon-palenight&hide_border=true)
 
 ## Medium Articles
 
@@ -44,11 +26,11 @@ Here are some ideas to get you started:
 
 ## Repos
 
-[![FastAPI Web Starter](https://github-readme-stats.vercel.app/api/pin/?username=hank&repo=fastapi-web-starter&show_owner=true)](https://github.com/hank/fastapi-web-starter)
+[![FastAPI Web Starter](https://github-readme-stats.vercel.app/api/pin/?username=cyhank&repo=fastapi-web-starter&show_owner=true)](https://github.com/cyhank/fastapi-web-starter)
 
-[![Gitstart](https://github-readme-stats.vercel.app/api/pin/?username=hank&repo=gitstart&show_owner=true)](https://github.com/hank/gitstart)
+[![Gitstart](https://github-readme-stats.vercel.app/api/pin/?username=cyhank&repo=gitstart&show_owner=true)](https://github.com/cyhank/gitstart)
 
-[![Awesome Package Manager](https://github-readme-stats.vercel.app/api/pin/?username=hank&repo=awesome&show_owner=true)](https://github.com/hank/awesome)
+[![Awesome Package Manager](https://github-readme-stats.vercel.app/api/pin/?username=cyhank&repo=awesome&show_owner=true)](https://github.com/cyhank/awesome)
 
 
 
@@ -60,10 +42,10 @@ Here are some ideas to get you started:
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></code>
-<code><img height="40" src="https://raw.githubusercontent.com/hank/hank/master/assets/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/hank/hank/master/assets/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/hank/hank/master/assets/php.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/hank/hank/master/assets/visual-studio-code.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/hank/hank/master/assets/vim.png"></code>  
+<code><img height="40" src="https://raw.githubusercontent.com/cyhank/cyhank/master/assets/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/cyhank/cyhank/master/assets/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/cyhank/cyhank/master/assets/php.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/cyhank/cyhank/master/assets/visual-studio-code.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/cyhank/cyhank/master/assets/vim.png"></code>  
 
-![](https://komarev.com/ghpvc/?username=hank)
+![](https://komarev.com/ghpvc/?username=cyhank)
