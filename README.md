@@ -27,11 +27,11 @@
 
 ## Repos
 
-[![1](https://github-readme-stats.vercel.app/api/pin/?username=cyhank&repo=fastapi-web-starter&show_owner=true)](https://github.com/cyhank/cyhank)
+[![1](https://github-readme-stats.vercel.app/api/pin/?username=cyhank&repo=cyhank&show_owner=true)](https://github.com/cyhank/cyhank)
 
-[![2](https://github-readme-stats.vercel.app/api/pin/?username=cyhank&repo=gitstart&show_owner=true)](https://github.com/cyhank/cyhank)
+[![2](https://github-readme-stats.vercel.app/api/pin/?username=cyhank&repo=cyhank=true)](https://github.com/cyhank/cyhank)
 
-[![3](https://github-readme-stats.vercel.app/api/pin/?username=cyhank&repo=awesome&show_owner=true)]([https://github.com/cyhank/awesome](https://github.com/cyhank/cyhank))
+[![3](https://github-readme-stats.vercel.app/api/pin/?username=cyhank&repo=cyhank=true)](https://github.com/cyhank/cyhank)
 
 
 
