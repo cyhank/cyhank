@@ -2,7 +2,7 @@
 
 <p align="center">
   <img width="92" src="https://raw.githubusercontent.com/cyhank/cyhank/main/file/DM_20220611232127_001.png" />
-  <img src="https://count.getloli.com/get/@:cyhank" alt="hank" />
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:cyhank" alt="hank" /></a>
 </p>  
 <h2 align="center">Hi there 👋, I'm cyhank!</h2>
 
