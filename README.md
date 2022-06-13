@@ -29,7 +29,7 @@
 
 [![1](https://github-readme-stats.vercel.app/api/pin/?username=cyhank&repo=cyhank&show_owner=true)](https://github.com/cyhank/cyhank)
 
-[![2](https://github-readme-stats.vercel.app/api/pin/?username=cyhank&repo=iptv=true)](https://github.com/cyhank/iptv)
+[![2](https://github-readme-stats.vercel.app/api/pin/?username=cyhank&repo=iptv)](https://github.com/cyhank/iptv)
 
 
 
